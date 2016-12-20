@@ -1,2 +1,2 @@
 # UAV
-Arduino UNO relay shield test
+The resp is for the UAV project, especially the power supply and LED indicators coding.
